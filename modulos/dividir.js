@@ -1,4 +1,4 @@
-var somar = function (x,y) {
+var dividir = function (x,y) {
     return x / y;
   }; 
-  module.exports = somar;
+  module.exports = dividir;
